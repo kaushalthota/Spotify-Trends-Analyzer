@@ -1,4 +1,4 @@
-
+Spotify Listening Data and User behavior patterns Data Analysis using Python
 ![148-1487614_spotify-logo-small-spotify-logo-transparent-hd-png](https://github.com/user-attachments/assets/d43c5a7d-0c56-4036-ac40-489f1ac3ed86)
 
 #This project is a data analytics and visualization tool that processes Spotify listening data to uncover trends and user behavior patterns. It uses a simulated dataset of listening activity from January to April 2025, and analyzes key metrics such as most played artists, peak listening hours, and monthly engagement. This type of analysis is useful for product teams, marketing strategists, and music platform developers looking to derive insights from user interaction data.
