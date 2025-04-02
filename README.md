@@ -11,8 +11,7 @@ Spotify Listening Data and User behavior patterns Data Analysis using Python
 #Matplotlib:For creating static visualizations such as bar and line plots.
 #Seaborn: For enchanced visual styling and readability of charts. 
 
-#Data:
-#CSV File: CSV File: The dataset is stored in a CSV file named spotify_sample_data.csv, which simulates real-world Spotify listening behavior.
+#CSV File: The dataset is stored in a CSV file named spotify_sample_data.csv, which simulates real-world Spotify listening behavior.
 
 #listen_date: Timestamp of the listen
 
