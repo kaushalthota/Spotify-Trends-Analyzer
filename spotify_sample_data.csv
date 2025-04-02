@@ -1,0 +1,1001 @@
+listen_date,artist,genre
+2025-02-13 11:20:00,The Weeknd,R&B/Pop
+2025-02-12 22:40:00,Bad Bunny,Reggaeton/Latin
+2025-01-29 18:14:00,Bad Bunny,Reggaeton/Latin
+2025-02-11 10:57:00,Ariana Grande,Pop/R&B
+2025-02-01 16:17:00,Ariana Grande,Pop/R&B
+2025-03-18 14:38:00,Arijit Singh,Indian Pop
+2025-02-12 16:25:00,The Weeknd,R&B/Pop
+2025-02-04 13:31:00,Taylor Swift,Pop
+2025-02-27 02:36:00,Eminem,Hip-Hop/Rap
+2025-02-12 21:23:00,Billie Eilish,Alternative/Indie
+2025-03-17 06:57:00,The Weeknd,R&B/Pop
+2025-02-07 14:04:00,Ed Sheeran,Pop
+2025-02-10 02:18:00,Eminem,Hip-Hop/Rap
+2025-03-10 04:41:00,Drake,Hip-Hop/Rap
+2025-01-16 12:31:00,Justin Bieber,Pop
+2025-01-11 23:35:00,Ed Sheeran,Pop
+2025-02-05 13:57:00,Eminem,Hip-Hop/Rap
+2025-03-24 11:12:00,Ed Sheeran,Pop
+2025-03-01 06:35:00,Arijit Singh,Indian Pop
+2025-02-08 04:04:00,Eminem,Hip-Hop/Rap
+2025-01-14 01:40:00,Taylor Swift,Pop
+2025-03-12 11:26:00,Justin Bieber,Pop
+2025-01-27 14:47:00,Justin Bieber,Pop
+2025-01-22 16:38:00,Ed Sheeran,Pop
+2025-03-31 21:08:00,Arijit Singh,Indian Pop
+2025-03-27 06:43:00,Arijit Singh,Indian Pop
+2025-03-16 17:18:00,Justin Bieber,Pop
+2025-02-08 14:15:00,Taylor Swift,Pop
+2025-02-12 19:17:00,Taylor Swift,Pop
+2025-02-27 14:05:00,Bad Bunny,Reggaeton/Latin
+2025-02-20 05:00:00,Arijit Singh,Indian Pop
+2025-02-12 10:43:00,The Weeknd,R&B/Pop
+2025-01-08 20:35:00,Justin Bieber,Pop
+2025-03-26 05:20:00,The Weeknd,R&B/Pop
+2025-02-08 20:39:00,Arijit Singh,Indian Pop
+2025-01-13 20:30:00,Ed Sheeran,Pop
+2025-01-18 04:10:00,The Weeknd,R&B/Pop
+2025-01-13 14:17:00,Drake,Hip-Hop/Rap
+2025-03-31 01:28:00,Justin Bieber,Pop
+2025-02-26 00:46:00,Ariana Grande,Pop/R&B
+2025-01-08 14:54:00,The Weeknd,R&B/Pop
+2025-02-08 21:49:00,Arijit Singh,Indian Pop
+2025-02-01 23:21:00,Taylor Swift,Pop
+2025-01-05 20:39:00,Arijit Singh,Indian Pop
+2025-02-19 13:06:00,Ed Sheeran,Pop
+2025-01-14 11:45:00,Ariana Grande,Pop/R&B
+2025-03-03 17:17:00,Drake,Hip-Hop/Rap
+2025-02-01 11:15:00,Ariana Grande,Pop/R&B
+2025-01-11 09:12:00,Ed Sheeran,Pop
+2025-03-11 08:14:00,Drake,Hip-Hop/Rap
+2025-03-30 00:49:00,Ed Sheeran,Pop
+2025-02-27 13:41:00,Ariana Grande,Pop/R&B
+2025-01-23 04:03:00,Justin Bieber,Pop
+2025-02-20 01:47:00,Drake,Hip-Hop/Rap
+2025-03-08 03:11:00,Taylor Swift,Pop
+2025-01-24 03:03:00,Bad Bunny,Reggaeton/Latin
+2025-03-17 18:09:00,Taylor Swift,Pop
+2025-02-27 10:05:00,Ed Sheeran,Pop
+2025-03-26 21:09:00,Justin Bieber,Pop
+2025-02-12 04:22:00,Drake,Hip-Hop/Rap
+2025-01-13 03:17:00,Ed Sheeran,Pop
+2025-03-07 22:28:00,Justin Bieber,Pop
+2025-03-03 13:23:00,The Weeknd,R&B/Pop
+2025-01-18 00:26:00,Bad Bunny,Reggaeton/Latin
+2025-03-25 01:33:00,Eminem,Hip-Hop/Rap
+2025-03-03 16:12:00,Drake,Hip-Hop/Rap
+2025-01-29 18:49:00,Taylor Swift,Pop
+2025-02-28 18:52:00,Eminem,Hip-Hop/Rap
+2025-03-13 16:28:00,The Weeknd,R&B/Pop
+2025-03-08 19:23:00,The Weeknd,R&B/Pop
+2025-03-13 12:34:00,Ariana Grande,Pop/R&B
+2025-02-04 16:55:00,Arijit Singh,Indian Pop
+2025-02-11 08:00:00,Ariana Grande,Pop/R&B
+2025-03-03 03:16:00,Eminem,Hip-Hop/Rap
+2025-02-07 13:36:00,Arijit Singh,Indian Pop
+2025-02-08 11:13:00,Eminem,Hip-Hop/Rap
+2025-03-22 09:34:00,Eminem,Hip-Hop/Rap
+2025-02-28 07:26:00,Billie Eilish,Alternative/Indie
+2025-03-06 11:13:00,The Weeknd,R&B/Pop
+2025-01-13 01:46:00,Bad Bunny,Reggaeton/Latin
+2025-02-11 10:53:00,The Weeknd,R&B/Pop
+2025-03-01 16:36:00,Ariana Grande,Pop/R&B
+2025-01-15 03:39:00,Drake,Hip-Hop/Rap
+2025-01-26 13:21:00,The Weeknd,R&B/Pop
+2025-01-30 05:00:00,The Weeknd,R&B/Pop
+2025-03-10 04:06:00,The Weeknd,R&B/Pop
+2025-03-16 10:46:00,Bad Bunny,Reggaeton/Latin
+2025-03-21 11:16:00,Billie Eilish,Alternative/Indie
+2025-02-08 07:38:00,Ed Sheeran,Pop
+2025-02-03 21:25:00,Billie Eilish,Alternative/Indie
+2025-01-18 10:14:00,Bad Bunny,Reggaeton/Latin
+2025-03-07 03:27:00,Arijit Singh,Indian Pop
+2025-03-11 11:34:00,Ed Sheeran,Pop
+2025-02-26 12:12:00,Taylor Swift,Pop
+2025-03-18 18:25:00,Arijit Singh,Indian Pop
+2025-03-04 07:38:00,Drake,Hip-Hop/Rap
+2025-02-13 05:53:00,Eminem,Hip-Hop/Rap
+2025-01-25 09:05:00,Bad Bunny,Reggaeton/Latin
+2025-02-14 18:10:00,Taylor Swift,Pop
+2025-01-03 09:41:00,Eminem,Hip-Hop/Rap
+2025-03-30 05:25:00,Billie Eilish,Alternative/Indie
+2025-01-22 05:16:00,Arijit Singh,Indian Pop
+2025-03-10 13:40:00,Bad Bunny,Reggaeton/Latin
+2025-01-15 10:09:00,Drake,Hip-Hop/Rap
+2025-01-31 04:35:00,The Weeknd,R&B/Pop
+2025-01-31 12:22:00,Arijit Singh,Indian Pop
+2025-02-27 10:39:00,Taylor Swift,Pop
+2025-02-28 01:37:00,Eminem,Hip-Hop/Rap
+2025-01-02 20:01:00,Billie Eilish,Alternative/Indie
+2025-01-09 15:57:00,Justin Bieber,Pop
+2025-01-30 22:22:00,Taylor Swift,Pop
+2025-02-12 06:00:00,Bad Bunny,Reggaeton/Latin
+2025-01-01 05:43:00,Taylor Swift,Pop
+2025-03-08 18:33:00,Bad Bunny,Reggaeton/Latin
+2025-01-09 02:07:00,Justin Bieber,Pop
+2025-02-20 03:06:00,Taylor Swift,Pop
+2025-02-22 05:26:00,Bad Bunny,Reggaeton/Latin
+2025-02-21 19:31:00,Justin Bieber,Pop
+2025-01-19 10:31:00,Justin Bieber,Pop
+2025-03-30 00:05:00,Ariana Grande,Pop/R&B
+2025-01-08 20:11:00,Justin Bieber,Pop
+2025-03-16 05:47:00,Ed Sheeran,Pop
+2025-02-23 10:50:00,Bad Bunny,Reggaeton/Latin
+2025-02-17 09:59:00,Ed Sheeran,Pop
+2025-01-17 20:06:00,The Weeknd,R&B/Pop
+2025-03-25 04:06:00,Drake,Hip-Hop/Rap
+2025-03-31 12:34:00,Ariana Grande,Pop/R&B
+2025-03-16 01:39:00,Ariana Grande,Pop/R&B
+2025-02-22 21:08:00,Arijit Singh,Indian Pop
+2025-02-15 14:31:00,The Weeknd,R&B/Pop
+2025-03-11 06:22:00,Bad Bunny,Reggaeton/Latin
+2025-02-12 04:41:00,Ed Sheeran,Pop
+2025-03-17 00:55:00,Billie Eilish,Alternative/Indie
+2025-03-05 17:02:00,Ed Sheeran,Pop
+2025-01-14 02:01:00,Eminem,Hip-Hop/Rap
+2025-02-15 19:32:00,Ed Sheeran,Pop
+2025-03-17 18:05:00,Billie Eilish,Alternative/Indie
+2025-01-01 22:09:00,Eminem,Hip-Hop/Rap
+2025-01-17 11:05:00,The Weeknd,R&B/Pop
+2025-03-05 05:16:00,Ariana Grande,Pop/R&B
+2025-02-15 12:54:00,Arijit Singh,Indian Pop
+2025-01-11 01:47:00,Justin Bieber,Pop
+2025-01-29 06:08:00,Drake,Hip-Hop/Rap
+2025-02-14 01:19:00,Ariana Grande,Pop/R&B
+2025-01-12 10:50:00,Eminem,Hip-Hop/Rap
+2025-03-06 10:00:00,Taylor Swift,Pop
+2025-03-03 09:40:00,Bad Bunny,Reggaeton/Latin
+2025-02-12 16:54:00,The Weeknd,R&B/Pop
+2025-03-31 02:06:00,Drake,Hip-Hop/Rap
+2025-02-07 11:20:00,Ariana Grande,Pop/R&B
+2025-01-12 08:11:00,Taylor Swift,Pop
+2025-01-10 05:14:00,Billie Eilish,Alternative/Indie
+2025-01-26 02:38:00,Drake,Hip-Hop/Rap
+2025-02-09 21:05:00,Arijit Singh,Indian Pop
+2025-01-18 19:04:00,Ariana Grande,Pop/R&B
+2025-03-23 08:34:00,Ed Sheeran,Pop
+2025-02-22 03:50:00,Ariana Grande,Pop/R&B
+2025-02-11 16:26:00,Bad Bunny,Reggaeton/Latin
+2025-03-04 01:15:00,Billie Eilish,Alternative/Indie
+2025-02-09 23:13:00,Bad Bunny,Reggaeton/Latin
+2025-02-24 04:07:00,Bad Bunny,Reggaeton/Latin
+2025-02-05 09:01:00,Ariana Grande,Pop/R&B
+2025-02-11 21:20:00,Taylor Swift,Pop
+2025-02-09 14:15:00,Billie Eilish,Alternative/Indie
+2025-02-04 09:47:00,Taylor Swift,Pop
+2025-02-26 15:44:00,Ed Sheeran,Pop
+2025-02-28 07:26:00,Ed Sheeran,Pop
+2025-03-23 11:45:00,Taylor Swift,Pop
+2025-02-01 07:53:00,Bad Bunny,Reggaeton/Latin
+2025-01-25 01:44:00,Bad Bunny,Reggaeton/Latin
+2025-02-15 16:11:00,Billie Eilish,Alternative/Indie
+2025-01-31 02:08:00,Drake,Hip-Hop/Rap
+2025-03-25 09:10:00,Arijit Singh,Indian Pop
+2025-01-02 18:04:00,Justin Bieber,Pop
+2025-01-15 09:21:00,Ed Sheeran,Pop
+2025-01-26 22:37:00,Taylor Swift,Pop
+2025-01-30 06:16:00,Billie Eilish,Alternative/Indie
+2025-01-09 07:57:00,Bad Bunny,Reggaeton/Latin
+2025-01-26 22:16:00,Drake,Hip-Hop/Rap
+2025-03-21 12:53:00,Bad Bunny,Reggaeton/Latin
+2025-03-29 08:46:00,Drake,Hip-Hop/Rap
+2025-03-01 04:53:00,Arijit Singh,Indian Pop
+2025-03-14 06:13:00,Billie Eilish,Alternative/Indie
+2025-01-20 06:15:00,The Weeknd,R&B/Pop
+2025-02-25 11:30:00,Arijit Singh,Indian Pop
+2025-01-09 21:52:00,The Weeknd,R&B/Pop
+2025-01-07 12:02:00,Arijit Singh,Indian Pop
+2025-02-26 03:00:00,Justin Bieber,Pop
+2025-03-10 03:09:00,Drake,Hip-Hop/Rap
+2025-01-03 19:35:00,Billie Eilish,Alternative/Indie
+2025-01-16 20:55:00,Justin Bieber,Pop
+2025-01-22 02:50:00,Justin Bieber,Pop
+2025-01-04 10:27:00,Drake,Hip-Hop/Rap
+2025-02-20 02:29:00,Arijit Singh,Indian Pop
+2025-01-26 12:08:00,Billie Eilish,Alternative/Indie
+2025-03-24 13:27:00,Bad Bunny,Reggaeton/Latin
+2025-02-19 21:51:00,Eminem,Hip-Hop/Rap
+2025-01-18 16:23:00,Billie Eilish,Alternative/Indie
+2025-02-11 08:41:00,Taylor Swift,Pop
+2025-01-16 10:29:00,Arijit Singh,Indian Pop
+2025-02-10 15:47:00,Eminem,Hip-Hop/Rap
+2025-03-14 21:46:00,Taylor Swift,Pop
+2025-03-27 15:01:00,The Weeknd,R&B/Pop
+2025-03-04 07:28:00,Drake,Hip-Hop/Rap
+2025-01-29 18:17:00,Drake,Hip-Hop/Rap
+2025-02-15 16:01:00,Billie Eilish,Alternative/Indie
+2025-03-27 18:26:00,The Weeknd,R&B/Pop
+2025-03-29 10:52:00,Arijit Singh,Indian Pop
+2025-03-20 03:12:00,The Weeknd,R&B/Pop
+2025-01-31 07:39:00,Arijit Singh,Indian Pop
+2025-03-10 16:30:00,Billie Eilish,Alternative/Indie
+2025-03-24 00:33:00,Taylor Swift,Pop
+2025-02-28 18:04:00,Bad Bunny,Reggaeton/Latin
+2025-01-03 13:17:00,Ariana Grande,Pop/R&B
+2025-03-20 22:52:00,Ed Sheeran,Pop
+2025-03-29 20:06:00,Taylor Swift,Pop
+2025-02-01 19:39:00,Taylor Swift,Pop
+2025-03-06 16:40:00,Ariana Grande,Pop/R&B
+2025-01-27 09:28:00,Drake,Hip-Hop/Rap
+2025-02-28 12:04:00,Ariana Grande,Pop/R&B
+2025-03-08 18:30:00,Eminem,Hip-Hop/Rap
+2025-01-04 02:05:00,Ariana Grande,Pop/R&B
+2025-01-11 15:01:00,Bad Bunny,Reggaeton/Latin
+2025-02-10 02:32:00,Eminem,Hip-Hop/Rap
+2025-01-31 17:41:00,The Weeknd,R&B/Pop
+2025-02-28 02:42:00,Drake,Hip-Hop/Rap
+2025-01-03 03:37:00,Bad Bunny,Reggaeton/Latin
+2025-01-10 09:34:00,Arijit Singh,Indian Pop
+2025-02-23 18:02:00,Arijit Singh,Indian Pop
+2025-03-09 11:04:00,Eminem,Hip-Hop/Rap
+2025-01-12 02:15:00,Taylor Swift,Pop
+2025-01-07 08:30:00,Ed Sheeran,Pop
+2025-03-06 03:27:00,Ariana Grande,Pop/R&B
+2025-02-26 17:17:00,Ariana Grande,Pop/R&B
+2025-01-19 05:33:00,Bad Bunny,Reggaeton/Latin
+2025-01-13 11:45:00,Eminem,Hip-Hop/Rap
+2025-01-29 05:21:00,Ariana Grande,Pop/R&B
+2025-02-10 00:39:00,Eminem,Hip-Hop/Rap
+2025-02-14 13:31:00,Bad Bunny,Reggaeton/Latin
+2025-01-08 14:13:00,Ed Sheeran,Pop
+2025-02-04 02:26:00,Eminem,Hip-Hop/Rap
+2025-02-24 06:51:00,The Weeknd,R&B/Pop
+2025-02-26 20:47:00,Billie Eilish,Alternative/Indie
+2025-02-06 15:49:00,Drake,Hip-Hop/Rap
+2025-03-01 21:03:00,Ariana Grande,Pop/R&B
+2025-03-23 07:48:00,Ariana Grande,Pop/R&B
+2025-03-23 02:57:00,Arijit Singh,Indian Pop
+2025-01-01 02:06:00,Bad Bunny,Reggaeton/Latin
+2025-02-09 23:31:00,The Weeknd,R&B/Pop
+2025-01-08 07:40:00,Ed Sheeran,Pop
+2025-03-25 07:31:00,The Weeknd,R&B/Pop
+2025-02-05 03:00:00,Ed Sheeran,Pop
+2025-01-29 01:32:00,Taylor Swift,Pop
+2025-02-21 10:31:00,Billie Eilish,Alternative/Indie
+2025-03-01 22:25:00,Bad Bunny,Reggaeton/Latin
+2025-02-02 13:01:00,Taylor Swift,Pop
+2025-03-16 23:19:00,Justin Bieber,Pop
+2025-01-30 21:36:00,Ariana Grande,Pop/R&B
+2025-01-18 14:15:00,Ed Sheeran,Pop
+2025-03-27 18:04:00,Ed Sheeran,Pop
+2025-01-20 00:06:00,Ariana Grande,Pop/R&B
+2025-03-30 04:18:00,Billie Eilish,Alternative/Indie
+2025-03-15 11:39:00,Bad Bunny,Reggaeton/Latin
+2025-01-18 18:50:00,Arijit Singh,Indian Pop
+2025-03-28 14:52:00,Justin Bieber,Pop
+2025-03-03 20:33:00,Taylor Swift,Pop
+2025-02-28 23:24:00,Drake,Hip-Hop/Rap
+2025-02-13 12:58:00,Billie Eilish,Alternative/Indie
+2025-02-21 01:13:00,Billie Eilish,Alternative/Indie
+2025-02-17 08:51:00,Justin Bieber,Pop
+2025-01-08 23:08:00,Eminem,Hip-Hop/Rap
+2025-02-28 20:16:00,Eminem,Hip-Hop/Rap
+2025-03-10 20:33:00,Drake,Hip-Hop/Rap
+2025-02-25 13:06:00,Justin Bieber,Pop
+2025-03-01 13:15:00,The Weeknd,R&B/Pop
+2025-03-06 14:52:00,Ariana Grande,Pop/R&B
+2025-03-08 14:53:00,Arijit Singh,Indian Pop
+2025-01-16 06:58:00,Justin Bieber,Pop
+2025-03-07 07:17:00,Justin Bieber,Pop
+2025-01-23 02:05:00,Eminem,Hip-Hop/Rap
+2025-01-28 09:06:00,Justin Bieber,Pop
+2025-03-09 21:52:00,The Weeknd,R&B/Pop
+2025-01-12 02:50:00,Ed Sheeran,Pop
+2025-02-23 11:43:00,Justin Bieber,Pop
+2025-01-09 06:25:00,Billie Eilish,Alternative/Indie
+2025-03-27 01:29:00,Billie Eilish,Alternative/Indie
+2025-01-22 17:20:00,The Weeknd,R&B/Pop
+2025-03-30 05:23:00,Ariana Grande,Pop/R&B
+2025-03-28 17:14:00,Justin Bieber,Pop
+2025-03-07 15:00:00,Eminem,Hip-Hop/Rap
+2025-01-29 06:22:00,Bad Bunny,Reggaeton/Latin
+2025-03-20 18:22:00,The Weeknd,R&B/Pop
+2025-02-10 09:43:00,Ed Sheeran,Pop
+2025-03-29 16:12:00,Bad Bunny,Reggaeton/Latin
+2025-02-13 12:46:00,Ariana Grande,Pop/R&B
+2025-03-11 15:11:00,Drake,Hip-Hop/Rap
+2025-01-09 19:05:00,Bad Bunny,Reggaeton/Latin
+2025-02-15 23:58:00,Taylor Swift,Pop
+2025-02-11 01:18:00,Eminem,Hip-Hop/Rap
+2025-03-26 00:39:00,Ed Sheeran,Pop
+2025-01-15 18:36:00,Justin Bieber,Pop
+2025-03-03 18:07:00,Justin Bieber,Pop
+2025-03-03 01:15:00,Drake,Hip-Hop/Rap
+2025-02-22 12:29:00,Ed Sheeran,Pop
+2025-01-20 08:44:00,Justin Bieber,Pop
+2025-02-21 20:26:00,Drake,Hip-Hop/Rap
+2025-01-12 08:32:00,The Weeknd,R&B/Pop
+2025-03-10 09:41:00,Ariana Grande,Pop/R&B
+2025-03-26 04:51:00,Eminem,Hip-Hop/Rap
+2025-03-19 16:33:00,Ariana Grande,Pop/R&B
+2025-01-04 08:12:00,Eminem,Hip-Hop/Rap
+2025-01-20 23:15:00,Arijit Singh,Indian Pop
+2025-03-24 01:35:00,Eminem,Hip-Hop/Rap
+2025-03-01 01:53:00,Ed Sheeran,Pop
+2025-02-23 12:14:00,Ariana Grande,Pop/R&B
+2025-03-29 19:02:00,Bad Bunny,Reggaeton/Latin
+2025-03-30 07:59:00,Justin Bieber,Pop
+2025-03-10 09:17:00,Ariana Grande,Pop/R&B
+2025-01-01 22:25:00,Ed Sheeran,Pop
+2025-02-18 23:46:00,Ed Sheeran,Pop
+2025-02-27 00:29:00,Taylor Swift,Pop
+2025-01-01 23:14:00,Ed Sheeran,Pop
+2025-03-02 06:43:00,The Weeknd,R&B/Pop
+2025-02-24 17:16:00,Drake,Hip-Hop/Rap
+2025-03-15 03:34:00,Drake,Hip-Hop/Rap
+2025-02-21 02:06:00,Eminem,Hip-Hop/Rap
+2025-02-17 00:03:00,Bad Bunny,Reggaeton/Latin
+2025-02-26 03:08:00,Taylor Swift,Pop
+2025-02-12 02:36:00,Ed Sheeran,Pop
+2025-03-11 12:09:00,Eminem,Hip-Hop/Rap
+2025-03-29 19:38:00,Drake,Hip-Hop/Rap
+2025-03-03 13:18:00,Drake,Hip-Hop/Rap
+2025-01-05 05:12:00,The Weeknd,R&B/Pop
+2025-01-23 17:53:00,Taylor Swift,Pop
+2025-02-24 11:41:00,Billie Eilish,Alternative/Indie
+2025-01-21 12:45:00,Drake,Hip-Hop/Rap
+2025-01-17 00:44:00,Justin Bieber,Pop
+2025-02-08 03:52:00,Taylor Swift,Pop
+2025-02-05 15:38:00,Ed Sheeran,Pop
+2025-01-15 20:03:00,The Weeknd,R&B/Pop
+2025-03-13 17:59:00,Taylor Swift,Pop
+2025-02-17 21:32:00,Eminem,Hip-Hop/Rap
+2025-01-01 00:34:00,Eminem,Hip-Hop/Rap
+2025-03-17 21:07:00,Justin Bieber,Pop
+2025-01-22 13:51:00,Billie Eilish,Alternative/Indie
+2025-01-20 03:07:00,Drake,Hip-Hop/Rap
+2025-02-25 05:59:00,Billie Eilish,Alternative/Indie
+2025-02-25 13:30:00,Billie Eilish,Alternative/Indie
+2025-03-02 21:25:00,The Weeknd,R&B/Pop
+2025-03-01 18:01:00,Ariana Grande,Pop/R&B
+2025-03-22 04:49:00,Bad Bunny,Reggaeton/Latin
+2025-03-30 20:17:00,Ed Sheeran,Pop
+2025-02-04 04:08:00,Drake,Hip-Hop/Rap
+2025-01-30 18:35:00,Billie Eilish,Alternative/Indie
+2025-03-25 00:29:00,Arijit Singh,Indian Pop
+2025-03-15 11:56:00,The Weeknd,R&B/Pop
+2025-01-21 04:08:00,Bad Bunny,Reggaeton/Latin
+2025-01-03 19:16:00,Ariana Grande,Pop/R&B
+2025-03-10 15:50:00,Bad Bunny,Reggaeton/Latin
+2025-03-05 11:54:00,The Weeknd,R&B/Pop
+2025-03-27 06:18:00,Bad Bunny,Reggaeton/Latin
+2025-03-25 23:57:00,The Weeknd,R&B/Pop
+2025-03-11 19:47:00,Billie Eilish,Alternative/Indie
+2025-03-03 16:02:00,Billie Eilish,Alternative/Indie
+2025-01-02 03:13:00,The Weeknd,R&B/Pop
+2025-02-04 15:08:00,Taylor Swift,Pop
+2025-01-03 10:01:00,Bad Bunny,Reggaeton/Latin
+2025-02-16 23:02:00,Taylor Swift,Pop
+2025-01-25 04:54:00,The Weeknd,R&B/Pop
+2025-02-24 16:07:00,Eminem,Hip-Hop/Rap
+2025-02-18 17:32:00,Billie Eilish,Alternative/Indie
+2025-01-20 01:19:00,Bad Bunny,Reggaeton/Latin
+2025-03-27 07:35:00,Justin Bieber,Pop
+2025-02-10 23:20:00,Billie Eilish,Alternative/Indie
+2025-02-25 08:45:00,Justin Bieber,Pop
+2025-01-31 22:33:00,Ariana Grande,Pop/R&B
+2025-01-15 04:54:00,Billie Eilish,Alternative/Indie
+2025-03-30 12:56:00,Ariana Grande,Pop/R&B
+2025-01-13 07:55:00,Bad Bunny,Reggaeton/Latin
+2025-01-08 13:35:00,The Weeknd,R&B/Pop
+2025-01-20 17:14:00,Justin Bieber,Pop
+2025-02-13 01:03:00,Eminem,Hip-Hop/Rap
+2025-01-01 19:40:00,Taylor Swift,Pop
+2025-01-10 06:07:00,Eminem,Hip-Hop/Rap
+2025-02-05 10:42:00,The Weeknd,R&B/Pop
+2025-03-02 07:47:00,The Weeknd,R&B/Pop
+2025-03-01 19:38:00,Justin Bieber,Pop
+2025-02-26 00:33:00,The Weeknd,R&B/Pop
+2025-01-19 11:06:00,Justin Bieber,Pop
+2025-01-14 21:58:00,Billie Eilish,Alternative/Indie
+2025-01-23 05:15:00,Ariana Grande,Pop/R&B
+2025-02-10 10:40:00,Billie Eilish,Alternative/Indie
+2025-01-13 15:50:00,Drake,Hip-Hop/Rap
+2025-03-08 22:05:00,Bad Bunny,Reggaeton/Latin
+2025-03-14 15:14:00,The Weeknd,R&B/Pop
+2025-02-12 16:14:00,The Weeknd,R&B/Pop
+2025-01-10 03:34:00,Billie Eilish,Alternative/Indie
+2025-02-21 18:15:00,Drake,Hip-Hop/Rap
+2025-03-31 11:33:00,Taylor Swift,Pop
+2025-01-20 17:26:00,Justin Bieber,Pop
+2025-03-09 08:16:00,Ariana Grande,Pop/R&B
+2025-02-27 06:14:00,Taylor Swift,Pop
+2025-01-17 12:31:00,Taylor Swift,Pop
+2025-02-25 04:38:00,Ariana Grande,Pop/R&B
+2025-02-16 19:17:00,Billie Eilish,Alternative/Indie
+2025-03-29 21:36:00,Ed Sheeran,Pop
+2025-01-24 19:26:00,Billie Eilish,Alternative/Indie
+2025-03-30 08:56:00,The Weeknd,R&B/Pop
+2025-02-19 00:23:00,Justin Bieber,Pop
+2025-03-22 10:50:00,Ed Sheeran,Pop
+2025-03-28 19:49:00,Taylor Swift,Pop
+2025-01-23 21:28:00,Taylor Swift,Pop
+2025-03-04 18:26:00,Ariana Grande,Pop/R&B
+2025-03-24 05:45:00,The Weeknd,R&B/Pop
+2025-01-22 23:34:00,Ariana Grande,Pop/R&B
+2025-02-02 17:13:00,Drake,Hip-Hop/Rap
+2025-01-31 09:13:00,Drake,Hip-Hop/Rap
+2025-01-11 04:27:00,Drake,Hip-Hop/Rap
+2025-01-10 19:49:00,Eminem,Hip-Hop/Rap
+2025-03-24 07:17:00,Ariana Grande,Pop/R&B
+2025-01-06 05:10:00,The Weeknd,R&B/Pop
+2025-03-13 13:35:00,Ariana Grande,Pop/R&B
+2025-02-28 11:56:00,Arijit Singh,Indian Pop
+2025-02-23 18:28:00,The Weeknd,R&B/Pop
+2025-01-06 07:01:00,Ariana Grande,Pop/R&B
+2025-03-04 04:04:00,Drake,Hip-Hop/Rap
+2025-02-03 02:34:00,Drake,Hip-Hop/Rap
+2025-01-17 08:34:00,Drake,Hip-Hop/Rap
+2025-01-20 21:06:00,Arijit Singh,Indian Pop
+2025-02-05 10:25:00,Ed Sheeran,Pop
+2025-01-26 19:49:00,Arijit Singh,Indian Pop
+2025-01-07 13:34:00,Ed Sheeran,Pop
+2025-03-07 06:31:00,Eminem,Hip-Hop/Rap
+2025-01-27 06:31:00,Justin Bieber,Pop
+2025-01-12 01:52:00,Arijit Singh,Indian Pop
+2025-03-24 14:31:00,Ed Sheeran,Pop
+2025-03-26 18:35:00,Bad Bunny,Reggaeton/Latin
+2025-01-18 04:28:00,Arijit Singh,Indian Pop
+2025-02-21 03:48:00,Ed Sheeran,Pop
+2025-01-16 12:53:00,Ed Sheeran,Pop
+2025-03-21 14:56:00,Ariana Grande,Pop/R&B
+2025-01-09 15:50:00,Taylor Swift,Pop
+2025-01-18 12:22:00,Arijit Singh,Indian Pop
+2025-03-27 00:39:00,Bad Bunny,Reggaeton/Latin
+2025-01-27 21:33:00,Ariana Grande,Pop/R&B
+2025-01-31 18:44:00,The Weeknd,R&B/Pop
+2025-03-06 12:36:00,Eminem,Hip-Hop/Rap
+2025-03-13 22:23:00,Bad Bunny,Reggaeton/Latin
+2025-03-14 16:41:00,Arijit Singh,Indian Pop
+2025-03-04 03:02:00,Ariana Grande,Pop/R&B
+2025-02-13 11:15:00,Taylor Swift,Pop
+2025-01-01 00:51:00,Justin Bieber,Pop
+2025-02-27 16:35:00,Justin Bieber,Pop
+2025-02-07 15:35:00,Taylor Swift,Pop
+2025-02-08 00:40:00,Taylor Swift,Pop
+2025-03-01 15:25:00,The Weeknd,R&B/Pop
+2025-02-18 05:48:00,Ed Sheeran,Pop
+2025-01-25 09:13:00,Billie Eilish,Alternative/Indie
+2025-03-09 05:47:00,Billie Eilish,Alternative/Indie
+2025-02-10 00:30:00,Eminem,Hip-Hop/Rap
+2025-01-11 02:41:00,Billie Eilish,Alternative/Indie
+2025-01-30 12:08:00,The Weeknd,R&B/Pop
+2025-03-11 22:38:00,The Weeknd,R&B/Pop
+2025-03-27 22:48:00,Billie Eilish,Alternative/Indie
+2025-01-04 19:40:00,Bad Bunny,Reggaeton/Latin
+2025-01-14 20:43:00,The Weeknd,R&B/Pop
+2025-02-06 04:25:00,Ariana Grande,Pop/R&B
+2025-01-05 07:35:00,Arijit Singh,Indian Pop
+2025-03-07 01:54:00,Justin Bieber,Pop
+2025-01-07 06:03:00,Drake,Hip-Hop/Rap
+2025-02-19 15:47:00,Bad Bunny,Reggaeton/Latin
+2025-01-28 17:08:00,Ed Sheeran,Pop
+2025-03-20 16:21:00,Justin Bieber,Pop
+2025-02-15 19:20:00,Eminem,Hip-Hop/Rap
+2025-03-22 18:33:00,Billie Eilish,Alternative/Indie
+2025-02-07 10:47:00,Drake,Hip-Hop/Rap
+2025-03-12 05:41:00,Justin Bieber,Pop
+2025-01-29 14:43:00,Arijit Singh,Indian Pop
+2025-03-20 13:35:00,Ariana Grande,Pop/R&B
+2025-03-28 16:41:00,The Weeknd,R&B/Pop
+2025-03-30 09:58:00,Billie Eilish,Alternative/Indie
+2025-01-02 08:49:00,Ariana Grande,Pop/R&B
+2025-02-25 10:37:00,Eminem,Hip-Hop/Rap
+2025-03-12 06:28:00,Taylor Swift,Pop
+2025-03-25 08:11:00,Ed Sheeran,Pop
+2025-02-18 11:17:00,The Weeknd,R&B/Pop
+2025-01-01 17:10:00,Billie Eilish,Alternative/Indie
+2025-03-09 09:23:00,Drake,Hip-Hop/Rap
+2025-03-19 06:34:00,Justin Bieber,Pop
+2025-01-11 05:54:00,Arijit Singh,Indian Pop
+2025-01-22 20:14:00,Arijit Singh,Indian Pop
+2025-01-04 04:58:00,Billie Eilish,Alternative/Indie
+2025-03-14 21:37:00,Taylor Swift,Pop
+2025-03-03 17:55:00,Billie Eilish,Alternative/Indie
+2025-01-10 20:20:00,Taylor Swift,Pop
+2025-03-01 09:51:00,Billie Eilish,Alternative/Indie
+2025-03-10 20:07:00,Drake,Hip-Hop/Rap
+2025-01-23 12:05:00,Ariana Grande,Pop/R&B
+2025-02-27 21:15:00,Arijit Singh,Indian Pop
+2025-03-31 08:25:00,Justin Bieber,Pop
+2025-03-25 12:49:00,The Weeknd,R&B/Pop
+2025-02-25 07:35:00,Taylor Swift,Pop
+2025-03-17 14:54:00,The Weeknd,R&B/Pop
+2025-03-05 04:01:00,Taylor Swift,Pop
+2025-01-28 18:47:00,Bad Bunny,Reggaeton/Latin
+2025-01-20 15:25:00,Drake,Hip-Hop/Rap
+2025-03-22 18:24:00,Drake,Hip-Hop/Rap
+2025-03-11 15:34:00,The Weeknd,R&B/Pop
+2025-02-27 01:48:00,The Weeknd,R&B/Pop
+2025-01-15 18:39:00,Justin Bieber,Pop
+2025-01-13 22:16:00,Bad Bunny,Reggaeton/Latin
+2025-02-03 13:14:00,Bad Bunny,Reggaeton/Latin
+2025-02-11 08:44:00,Ariana Grande,Pop/R&B
+2025-03-02 05:53:00,Eminem,Hip-Hop/Rap
+2025-01-28 02:05:00,Billie Eilish,Alternative/Indie
+2025-03-12 15:40:00,The Weeknd,R&B/Pop
+2025-01-27 21:38:00,Eminem,Hip-Hop/Rap
+2025-01-21 00:08:00,Justin Bieber,Pop
+2025-01-23 17:43:00,Bad Bunny,Reggaeton/Latin
+2025-03-28 00:00:00,Taylor Swift,Pop
+2025-02-16 05:35:00,Billie Eilish,Alternative/Indie
+2025-02-04 22:34:00,Arijit Singh,Indian Pop
+2025-03-02 00:15:00,Arijit Singh,Indian Pop
+2025-02-09 09:21:00,The Weeknd,R&B/Pop
+2025-03-18 07:02:00,Taylor Swift,Pop
+2025-01-18 19:36:00,Ariana Grande,Pop/R&B
+2025-02-16 21:29:00,Eminem,Hip-Hop/Rap
+2025-01-18 14:37:00,Bad Bunny,Reggaeton/Latin
+2025-01-18 01:47:00,Eminem,Hip-Hop/Rap
+2025-03-05 15:44:00,Taylor Swift,Pop
+2025-01-20 22:40:00,The Weeknd,R&B/Pop
+2025-02-05 18:40:00,Bad Bunny,Reggaeton/Latin
+2025-02-07 10:00:00,Billie Eilish,Alternative/Indie
+2025-02-01 06:47:00,Drake,Hip-Hop/Rap
+2025-02-12 04:50:00,Justin Bieber,Pop
+2025-01-16 06:23:00,Ed Sheeran,Pop
+2025-01-08 17:51:00,Ariana Grande,Pop/R&B
+2025-03-11 14:57:00,Ariana Grande,Pop/R&B
+2025-02-21 18:16:00,Eminem,Hip-Hop/Rap
+2025-03-30 10:48:00,Ariana Grande,Pop/R&B
+2025-01-11 04:54:00,Eminem,Hip-Hop/Rap
+2025-02-24 23:03:00,Billie Eilish,Alternative/Indie
+2025-03-09 16:34:00,Ed Sheeran,Pop
+2025-01-26 17:52:00,Eminem,Hip-Hop/Rap
+2025-03-02 22:14:00,Ariana Grande,Pop/R&B
+2025-01-14 22:47:00,Bad Bunny,Reggaeton/Latin
+2025-03-05 07:31:00,Billie Eilish,Alternative/Indie
+2025-03-01 13:04:00,Bad Bunny,Reggaeton/Latin
+2025-01-21 11:28:00,Arijit Singh,Indian Pop
+2025-02-11 08:51:00,Billie Eilish,Alternative/Indie
+2025-01-02 10:10:00,Billie Eilish,Alternative/Indie
+2025-02-11 00:39:00,The Weeknd,R&B/Pop
+2025-03-04 01:50:00,Ed Sheeran,Pop
+2025-03-06 13:44:00,Eminem,Hip-Hop/Rap
+2025-03-01 01:29:00,Drake,Hip-Hop/Rap
+2025-02-14 11:26:00,Justin Bieber,Pop
+2025-02-14 22:22:00,Justin Bieber,Pop
+2025-03-14 07:37:00,Taylor Swift,Pop
+2025-02-21 07:31:00,Billie Eilish,Alternative/Indie
+2025-03-28 17:50:00,Billie Eilish,Alternative/Indie
+2025-01-28 11:50:00,Ed Sheeran,Pop
+2025-02-18 00:58:00,Justin Bieber,Pop
+2025-03-17 23:33:00,Taylor Swift,Pop
+2025-03-24 16:47:00,Taylor Swift,Pop
+2025-01-31 00:20:00,The Weeknd,R&B/Pop
+2025-02-05 23:51:00,Taylor Swift,Pop
+2025-02-23 06:02:00,Taylor Swift,Pop
+2025-01-22 09:24:00,Ariana Grande,Pop/R&B
+2025-01-29 09:16:00,Billie Eilish,Alternative/Indie
+2025-03-24 01:27:00,Drake,Hip-Hop/Rap
+2025-01-25 21:51:00,Bad Bunny,Reggaeton/Latin
+2025-01-04 02:32:00,Eminem,Hip-Hop/Rap
+2025-03-10 23:28:00,Bad Bunny,Reggaeton/Latin
+2025-03-08 20:45:00,Arijit Singh,Indian Pop
+2025-01-08 16:11:00,Drake,Hip-Hop/Rap
+2025-01-11 01:24:00,Bad Bunny,Reggaeton/Latin
+2025-01-14 11:03:00,The Weeknd,R&B/Pop
+2025-02-21 21:21:00,Arijit Singh,Indian Pop
+2025-03-11 10:07:00,Arijit Singh,Indian Pop
+2025-03-31 13:06:00,Billie Eilish,Alternative/Indie
+2025-03-28 04:12:00,Arijit Singh,Indian Pop
+2025-01-17 14:52:00,Billie Eilish,Alternative/Indie
+2025-02-25 01:25:00,The Weeknd,R&B/Pop
+2025-01-05 10:26:00,Bad Bunny,Reggaeton/Latin
+2025-03-21 21:15:00,Drake,Hip-Hop/Rap
+2025-03-31 01:51:00,Ariana Grande,Pop/R&B
+2025-01-24 09:39:00,Eminem,Hip-Hop/Rap
+2025-03-13 20:35:00,Bad Bunny,Reggaeton/Latin
+2025-03-02 21:54:00,Ariana Grande,Pop/R&B
+2025-02-24 23:50:00,Justin Bieber,Pop
+2025-01-09 04:25:00,Billie Eilish,Alternative/Indie
+2025-02-02 16:23:00,Bad Bunny,Reggaeton/Latin
+2025-03-04 12:21:00,Drake,Hip-Hop/Rap
+2025-02-24 12:22:00,Arijit Singh,Indian Pop
+2025-02-06 13:14:00,Drake,Hip-Hop/Rap
+2025-03-11 14:04:00,Ed Sheeran,Pop
+2025-03-11 01:53:00,Ed Sheeran,Pop
+2025-01-31 09:27:00,Billie Eilish,Alternative/Indie
+2025-02-13 18:53:00,Ariana Grande,Pop/R&B
+2025-03-12 00:44:00,Ariana Grande,Pop/R&B
+2025-01-23 06:35:00,Arijit Singh,Indian Pop
+2025-01-22 20:23:00,The Weeknd,R&B/Pop
+2025-03-17 20:16:00,Eminem,Hip-Hop/Rap
+2025-01-05 07:50:00,Arijit Singh,Indian Pop
+2025-01-26 06:41:00,Ed Sheeran,Pop
+2025-01-09 22:14:00,Billie Eilish,Alternative/Indie
+2025-03-30 22:25:00,Arijit Singh,Indian Pop
+2025-02-19 00:45:00,Justin Bieber,Pop
+2025-02-19 19:32:00,Justin Bieber,Pop
+2025-01-10 23:49:00,Billie Eilish,Alternative/Indie
+2025-02-20 23:22:00,Eminem,Hip-Hop/Rap
+2025-01-03 17:59:00,Arijit Singh,Indian Pop
+2025-03-15 08:43:00,The Weeknd,R&B/Pop
+2025-03-07 13:13:00,Taylor Swift,Pop
+2025-02-23 01:15:00,Drake,Hip-Hop/Rap
+2025-01-10 10:45:00,Taylor Swift,Pop
+2025-02-24 05:30:00,Drake,Hip-Hop/Rap
+2025-03-20 04:52:00,Eminem,Hip-Hop/Rap
+2025-01-17 17:04:00,Eminem,Hip-Hop/Rap
+2025-01-07 14:36:00,Bad Bunny,Reggaeton/Latin
+2025-02-01 00:40:00,Justin Bieber,Pop
+2025-03-23 10:08:00,Ed Sheeran,Pop
+2025-02-16 02:52:00,Ariana Grande,Pop/R&B
+2025-02-13 22:51:00,Justin Bieber,Pop
+2025-01-14 00:18:00,Ed Sheeran,Pop
+2025-03-29 09:25:00,The Weeknd,R&B/Pop
+2025-03-25 20:12:00,Bad Bunny,Reggaeton/Latin
+2025-02-13 13:57:00,Drake,Hip-Hop/Rap
+2025-01-17 09:28:00,Billie Eilish,Alternative/Indie
+2025-03-15 11:29:00,Eminem,Hip-Hop/Rap
+2025-02-24 11:07:00,Ed Sheeran,Pop
+2025-01-17 03:45:00,Bad Bunny,Reggaeton/Latin
+2025-03-15 02:43:00,The Weeknd,R&B/Pop
+2025-03-28 14:38:00,Bad Bunny,Reggaeton/Latin
+2025-01-31 06:44:00,Bad Bunny,Reggaeton/Latin
+2025-02-14 09:27:00,Ed Sheeran,Pop
+2025-03-08 17:25:00,Justin Bieber,Pop
+2025-02-06 12:25:00,Eminem,Hip-Hop/Rap
+2025-03-22 22:02:00,Bad Bunny,Reggaeton/Latin
+2025-02-15 01:33:00,Billie Eilish,Alternative/Indie
+2025-03-19 07:16:00,Billie Eilish,Alternative/Indie
+2025-01-18 14:21:00,The Weeknd,R&B/Pop
+2025-03-28 10:21:00,Eminem,Hip-Hop/Rap
+2025-02-02 00:29:00,Justin Bieber,Pop
+2025-03-11 22:03:00,Ed Sheeran,Pop
+2025-03-27 22:00:00,Eminem,Hip-Hop/Rap
+2025-02-26 12:45:00,Arijit Singh,Indian Pop
+2025-03-30 17:22:00,Bad Bunny,Reggaeton/Latin
+2025-01-29 20:08:00,Eminem,Hip-Hop/Rap
+2025-03-13 17:10:00,Billie Eilish,Alternative/Indie
+2025-01-21 22:30:00,Billie Eilish,Alternative/Indie
+2025-01-29 16:11:00,Justin Bieber,Pop
+2025-02-10 06:47:00,Ariana Grande,Pop/R&B
+2025-01-09 09:02:00,Ed Sheeran,Pop
+2025-03-02 08:00:00,Eminem,Hip-Hop/Rap
+2025-03-16 00:35:00,Bad Bunny,Reggaeton/Latin
+2025-02-10 19:12:00,Ariana Grande,Pop/R&B
+2025-01-02 02:53:00,Billie Eilish,Alternative/Indie
+2025-01-19 10:04:00,Justin Bieber,Pop
+2025-01-24 07:16:00,Billie Eilish,Alternative/Indie
+2025-02-13 20:17:00,Ed Sheeran,Pop
+2025-03-31 00:53:00,Eminem,Hip-Hop/Rap
+2025-02-15 03:28:00,Ariana Grande,Pop/R&B
+2025-01-13 18:07:00,Eminem,Hip-Hop/Rap
+2025-01-23 14:25:00,Taylor Swift,Pop
+2025-01-17 15:45:00,Eminem,Hip-Hop/Rap
+2025-03-09 00:15:00,Eminem,Hip-Hop/Rap
+2025-03-09 17:57:00,Ed Sheeran,Pop
+2025-02-23 13:34:00,Bad Bunny,Reggaeton/Latin
+2025-03-08 15:10:00,Justin Bieber,Pop
+2025-01-27 11:31:00,The Weeknd,R&B/Pop
+2025-03-18 03:47:00,Drake,Hip-Hop/Rap
+2025-02-12 02:51:00,Taylor Swift,Pop
+2025-03-18 07:06:00,Ariana Grande,Pop/R&B
+2025-03-26 05:57:00,Ed Sheeran,Pop
+2025-02-01 23:26:00,The Weeknd,R&B/Pop
+2025-03-14 01:09:00,Bad Bunny,Reggaeton/Latin
+2025-01-01 19:04:00,Justin Bieber,Pop
+2025-03-11 08:23:00,Justin Bieber,Pop
+2025-02-23 02:29:00,Ariana Grande,Pop/R&B
+2025-01-16 03:24:00,Drake,Hip-Hop/Rap
+2025-01-18 08:32:00,Ed Sheeran,Pop
+2025-02-14 20:08:00,Drake,Hip-Hop/Rap
+2025-01-07 09:52:00,Billie Eilish,Alternative/Indie
+2025-03-16 18:33:00,The Weeknd,R&B/Pop
+2025-03-08 16:46:00,Justin Bieber,Pop
+2025-01-05 20:36:00,Ariana Grande,Pop/R&B
+2025-02-11 21:49:00,Justin Bieber,Pop
+2025-03-03 14:55:00,Eminem,Hip-Hop/Rap
+2025-03-27 00:09:00,Ed Sheeran,Pop
+2025-01-25 00:16:00,The Weeknd,R&B/Pop
+2025-01-23 10:34:00,Ed Sheeran,Pop
+2025-03-12 23:10:00,The Weeknd,R&B/Pop
+2025-02-19 07:04:00,Taylor Swift,Pop
+2025-01-28 11:41:00,Drake,Hip-Hop/Rap
+2025-01-22 06:27:00,Ariana Grande,Pop/R&B
+2025-02-24 04:15:00,Drake,Hip-Hop/Rap
+2025-01-09 06:48:00,Justin Bieber,Pop
+2025-02-22 15:44:00,Eminem,Hip-Hop/Rap
+2025-03-11 22:16:00,Eminem,Hip-Hop/Rap
+2025-03-21 17:46:00,Arijit Singh,Indian Pop
+2025-02-06 02:38:00,Billie Eilish,Alternative/Indie
+2025-03-12 19:21:00,Drake,Hip-Hop/Rap
+2025-03-15 15:47:00,Ariana Grande,Pop/R&B
+2025-01-29 02:23:00,Ariana Grande,Pop/R&B
+2025-03-18 16:25:00,Arijit Singh,Indian Pop
+2025-01-23 15:44:00,The Weeknd,R&B/Pop
+2025-02-01 05:07:00,Billie Eilish,Alternative/Indie
+2025-01-07 22:02:00,Drake,Hip-Hop/Rap
+2025-02-03 00:44:00,Arijit Singh,Indian Pop
+2025-01-02 12:23:00,Ed Sheeran,Pop
+2025-01-05 20:23:00,Arijit Singh,Indian Pop
+2025-02-22 11:13:00,Drake,Hip-Hop/Rap
+2025-02-01 17:17:00,Justin Bieber,Pop
+2025-03-13 10:46:00,Drake,Hip-Hop/Rap
+2025-03-08 22:37:00,Eminem,Hip-Hop/Rap
+2025-03-22 19:31:00,The Weeknd,R&B/Pop
+2025-03-28 17:32:00,Arijit Singh,Indian Pop
+2025-03-13 10:37:00,Taylor Swift,Pop
+2025-02-28 19:05:00,Billie Eilish,Alternative/Indie
+2025-03-28 05:35:00,Billie Eilish,Alternative/Indie
+2025-02-01 13:06:00,Eminem,Hip-Hop/Rap
+2025-02-02 00:44:00,Eminem,Hip-Hop/Rap
+2025-01-01 04:32:00,Ariana Grande,Pop/R&B
+2025-03-17 02:27:00,The Weeknd,R&B/Pop
+2025-01-23 15:31:00,Billie Eilish,Alternative/Indie
+2025-02-28 01:01:00,Ed Sheeran,Pop
+2025-01-09 17:51:00,Ed Sheeran,Pop
+2025-02-09 09:16:00,Taylor Swift,Pop
+2025-02-14 02:26:00,Ed Sheeran,Pop
+2025-02-28 21:19:00,Ariana Grande,Pop/R&B
+2025-01-06 09:40:00,Billie Eilish,Alternative/Indie
+2025-03-13 02:47:00,Arijit Singh,Indian Pop
+2025-03-07 08:20:00,Drake,Hip-Hop/Rap
+2025-02-26 22:07:00,Ariana Grande,Pop/R&B
+2025-03-11 08:57:00,Arijit Singh,Indian Pop
+2025-03-26 11:21:00,Arijit Singh,Indian Pop
+2025-02-02 02:38:00,Eminem,Hip-Hop/Rap
+2025-02-03 17:36:00,Drake,Hip-Hop/Rap
+2025-03-24 07:43:00,Ed Sheeran,Pop
+2025-02-05 19:53:00,Eminem,Hip-Hop/Rap
+2025-03-05 11:29:00,The Weeknd,R&B/Pop
+2025-02-08 15:01:00,Ariana Grande,Pop/R&B
+2025-02-04 12:09:00,Ed Sheeran,Pop
+2025-01-30 05:52:00,Ariana Grande,Pop/R&B
+2025-03-16 10:46:00,Taylor Swift,Pop
+2025-03-08 14:23:00,Arijit Singh,Indian Pop
+2025-01-13 04:20:00,Ariana Grande,Pop/R&B
+2025-01-13 01:31:00,Billie Eilish,Alternative/Indie
+2025-01-23 16:38:00,Drake,Hip-Hop/Rap
+2025-01-14 03:52:00,Ariana Grande,Pop/R&B
+2025-02-14 17:22:00,Justin Bieber,Pop
+2025-03-24 19:01:00,Ed Sheeran,Pop
+2025-01-20 01:07:00,Ed Sheeran,Pop
+2025-03-22 03:58:00,The Weeknd,R&B/Pop
+2025-02-03 07:03:00,Billie Eilish,Alternative/Indie
+2025-01-24 01:36:00,Justin Bieber,Pop
+2025-02-02 17:29:00,Ariana Grande,Pop/R&B
+2025-03-27 14:09:00,Arijit Singh,Indian Pop
+2025-02-16 21:35:00,Ariana Grande,Pop/R&B
+2025-02-19 02:27:00,Eminem,Hip-Hop/Rap
+2025-01-04 20:39:00,Eminem,Hip-Hop/Rap
+2025-02-14 16:22:00,The Weeknd,R&B/Pop
+2025-01-24 15:00:00,Arijit Singh,Indian Pop
+2025-01-16 23:35:00,The Weeknd,R&B/Pop
+2025-02-17 17:57:00,Drake,Hip-Hop/Rap
+2025-03-13 06:57:00,Drake,Hip-Hop/Rap
+2025-01-28 23:52:00,Bad Bunny,Reggaeton/Latin
+2025-02-16 20:05:00,Eminem,Hip-Hop/Rap
+2025-03-17 22:55:00,Arijit Singh,Indian Pop
+2025-03-21 16:13:00,Bad Bunny,Reggaeton/Latin
+2025-01-14 01:35:00,Eminem,Hip-Hop/Rap
+2025-03-31 15:58:00,Drake,Hip-Hop/Rap
+2025-03-21 00:32:00,Ed Sheeran,Pop
+2025-02-22 03:25:00,Taylor Swift,Pop
+2025-03-16 00:54:00,Eminem,Hip-Hop/Rap
+2025-01-18 07:52:00,Justin Bieber,Pop
+2025-01-24 00:48:00,Taylor Swift,Pop
+2025-02-14 22:25:00,Billie Eilish,Alternative/Indie
+2025-02-09 14:20:00,Drake,Hip-Hop/Rap
+2025-03-22 11:46:00,Ed Sheeran,Pop
+2025-03-16 21:27:00,Drake,Hip-Hop/Rap
+2025-02-04 00:27:00,Drake,Hip-Hop/Rap
+2025-03-26 17:25:00,Ed Sheeran,Pop
+2025-02-27 10:26:00,Taylor Swift,Pop
+2025-03-26 08:04:00,Eminem,Hip-Hop/Rap
+2025-02-17 15:16:00,Arijit Singh,Indian Pop
+2025-01-13 01:52:00,Taylor Swift,Pop
+2025-01-01 20:27:00,Bad Bunny,Reggaeton/Latin
+2025-01-18 19:30:00,Billie Eilish,Alternative/Indie
+2025-01-29 05:31:00,The Weeknd,R&B/Pop
+2025-03-07 11:57:00,Ed Sheeran,Pop
+2025-03-15 14:28:00,Ed Sheeran,Pop
+2025-03-05 22:01:00,Ed Sheeran,Pop
+2025-03-18 08:31:00,Billie Eilish,Alternative/Indie
+2025-02-17 10:22:00,Billie Eilish,Alternative/Indie
+2025-02-20 03:36:00,Ariana Grande,Pop/R&B
+2025-01-27 15:56:00,Taylor Swift,Pop
+2025-02-22 02:06:00,Arijit Singh,Indian Pop
+2025-02-13 20:55:00,Arijit Singh,Indian Pop
+2025-01-25 14:42:00,Ed Sheeran,Pop
+2025-03-08 03:34:00,Bad Bunny,Reggaeton/Latin
+2025-01-31 02:54:00,Arijit Singh,Indian Pop
+2025-02-12 05:52:00,Eminem,Hip-Hop/Rap
+2025-03-14 13:20:00,Justin Bieber,Pop
+2025-01-16 10:25:00,Justin Bieber,Pop
+2025-02-18 04:00:00,Arijit Singh,Indian Pop
+2025-01-12 20:05:00,Taylor Swift,Pop
+2025-03-17 03:33:00,Arijit Singh,Indian Pop
+2025-01-14 10:06:00,Ariana Grande,Pop/R&B
+2025-01-17 05:30:00,Ed Sheeran,Pop
+2025-01-20 08:15:00,The Weeknd,R&B/Pop
+2025-02-24 00:08:00,Ed Sheeran,Pop
+2025-02-13 18:58:00,Justin Bieber,Pop
+2025-02-08 21:39:00,Eminem,Hip-Hop/Rap
+2025-02-22 15:06:00,Justin Bieber,Pop
+2025-02-04 00:32:00,Drake,Hip-Hop/Rap
+2025-03-30 23:03:00,Ariana Grande,Pop/R&B
+2025-01-27 06:22:00,Bad Bunny,Reggaeton/Latin
+2025-03-07 22:02:00,Ariana Grande,Pop/R&B
+2025-02-25 20:22:00,Arijit Singh,Indian Pop
+2025-01-18 03:08:00,Billie Eilish,Alternative/Indie
+2025-01-16 09:42:00,Bad Bunny,Reggaeton/Latin
+2025-03-06 14:26:00,Billie Eilish,Alternative/Indie
+2025-02-16 02:33:00,The Weeknd,R&B/Pop
+2025-03-06 06:20:00,Drake,Hip-Hop/Rap
+2025-03-23 00:44:00,Ariana Grande,Pop/R&B
+2025-03-01 22:27:00,The Weeknd,R&B/Pop
+2025-03-20 23:31:00,Drake,Hip-Hop/Rap
+2025-01-11 12:30:00,Drake,Hip-Hop/Rap
+2025-02-25 20:35:00,Billie Eilish,Alternative/Indie
+2025-03-31 08:36:00,Justin Bieber,Pop
+2025-03-23 23:28:00,Eminem,Hip-Hop/Rap
+2025-03-14 12:27:00,Justin Bieber,Pop
+2025-03-01 12:57:00,Arijit Singh,Indian Pop
+2025-01-22 18:21:00,Justin Bieber,Pop
+2025-01-19 08:24:00,Arijit Singh,Indian Pop
+2025-01-22 07:29:00,Taylor Swift,Pop
+2025-03-11 19:10:00,Ed Sheeran,Pop
+2025-01-18 23:57:00,The Weeknd,R&B/Pop
+2025-03-25 15:27:00,Ariana Grande,Pop/R&B
+2025-01-04 18:25:00,The Weeknd,R&B/Pop
+2025-03-18 17:58:00,Eminem,Hip-Hop/Rap
+2025-01-10 08:39:00,Ariana Grande,Pop/R&B
+2025-02-18 05:47:00,Ed Sheeran,Pop
+2025-01-25 23:38:00,Arijit Singh,Indian Pop
+2025-01-07 21:20:00,The Weeknd,R&B/Pop
+2025-03-24 09:12:00,The Weeknd,R&B/Pop
+2025-01-03 15:45:00,Arijit Singh,Indian Pop
+2025-02-18 21:02:00,The Weeknd,R&B/Pop
+2025-01-11 18:43:00,Drake,Hip-Hop/Rap
+2025-03-09 15:58:00,The Weeknd,R&B/Pop
+2025-03-01 06:39:00,Eminem,Hip-Hop/Rap
+2025-03-08 15:55:00,Bad Bunny,Reggaeton/Latin
+2025-03-26 01:44:00,Taylor Swift,Pop
+2025-02-09 09:38:00,The Weeknd,R&B/Pop
+2025-03-22 22:43:00,Justin Bieber,Pop
+2025-01-27 16:26:00,Ed Sheeran,Pop
+2025-02-02 03:51:00,Eminem,Hip-Hop/Rap
+2025-02-14 01:29:00,Ariana Grande,Pop/R&B
+2025-01-12 07:47:00,Billie Eilish,Alternative/Indie
+2025-01-02 15:02:00,Bad Bunny,Reggaeton/Latin
+2025-01-07 05:36:00,Arijit Singh,Indian Pop
+2025-01-15 05:18:00,Ed Sheeran,Pop
+2025-03-02 00:01:00,Eminem,Hip-Hop/Rap
+2025-01-26 20:39:00,Billie Eilish,Alternative/Indie
+2025-01-03 19:13:00,Ariana Grande,Pop/R&B
+2025-03-11 18:21:00,Drake,Hip-Hop/Rap
+2025-02-12 06:06:00,Drake,Hip-Hop/Rap
+2025-03-05 11:51:00,Ed Sheeran,Pop
+2025-02-18 12:08:00,Billie Eilish,Alternative/Indie
+2025-01-19 06:51:00,Ed Sheeran,Pop
+2025-01-14 15:19:00,Ed Sheeran,Pop
+2025-02-27 12:23:00,Eminem,Hip-Hop/Rap
+2025-02-28 00:48:00,Drake,Hip-Hop/Rap
+2025-02-16 07:09:00,Bad Bunny,Reggaeton/Latin
+2025-01-16 00:51:00,The Weeknd,R&B/Pop
+2025-01-26 09:03:00,Billie Eilish,Alternative/Indie
+2025-03-09 23:24:00,Taylor Swift,Pop
+2025-03-02 05:59:00,Taylor Swift,Pop
+2025-02-02 23:55:00,Taylor Swift,Pop
+2025-02-28 08:22:00,Bad Bunny,Reggaeton/Latin
+2025-03-12 17:19:00,Bad Bunny,Reggaeton/Latin
+2025-03-18 09:39:00,Drake,Hip-Hop/Rap
+2025-02-21 03:31:00,Ed Sheeran,Pop
+2025-02-10 04:18:00,Billie Eilish,Alternative/Indie
+2025-01-11 23:19:00,Ariana Grande,Pop/R&B
+2025-02-09 08:00:00,Drake,Hip-Hop/Rap
+2025-01-06 02:01:00,Drake,Hip-Hop/Rap
+2025-03-19 04:33:00,The Weeknd,R&B/Pop
+2025-01-13 14:38:00,Ariana Grande,Pop/R&B
+2025-03-02 08:47:00,Justin Bieber,Pop
+2025-02-23 15:07:00,Arijit Singh,Indian Pop
+2025-01-02 20:40:00,Ed Sheeran,Pop
+2025-01-02 05:30:00,Billie Eilish,Alternative/Indie
+2025-01-30 09:55:00,Billie Eilish,Alternative/Indie
+2025-01-11 17:18:00,Arijit Singh,Indian Pop
+2025-02-11 10:01:00,Taylor Swift,Pop
+2025-02-26 06:37:00,Eminem,Hip-Hop/Rap
+2025-02-07 00:34:00,Drake,Hip-Hop/Rap
+2025-01-25 22:55:00,Ariana Grande,Pop/R&B
+2025-02-06 19:50:00,Arijit Singh,Indian Pop
+2025-03-05 17:45:00,Billie Eilish,Alternative/Indie
+2025-02-06 21:59:00,Ed Sheeran,Pop
+2025-03-03 00:01:00,Ariana Grande,Pop/R&B
+2025-03-27 10:28:00,Eminem,Hip-Hop/Rap
+2025-02-14 17:36:00,Ariana Grande,Pop/R&B
+2025-03-31 21:48:00,Drake,Hip-Hop/Rap
+2025-01-25 04:05:00,Arijit Singh,Indian Pop
+2025-01-27 12:14:00,Arijit Singh,Indian Pop
+2025-01-22 11:38:00,Justin Bieber,Pop
+2025-01-19 09:30:00,Justin Bieber,Pop
+2025-03-15 17:52:00,Bad Bunny,Reggaeton/Latin
+2025-03-11 13:10:00,Ed Sheeran,Pop
+2025-03-10 21:41:00,Billie Eilish,Alternative/Indie
+2025-01-08 06:15:00,Justin Bieber,Pop
+2025-03-10 08:58:00,Arijit Singh,Indian Pop
+2025-01-13 18:16:00,The Weeknd,R&B/Pop
+2025-03-23 05:41:00,Justin Bieber,Pop
+2025-02-10 09:31:00,Taylor Swift,Pop
+2025-02-22 02:37:00,Arijit Singh,Indian Pop
+2025-02-14 08:57:00,Billie Eilish,Alternative/Indie
+2025-01-13 01:35:00,Ed Sheeran,Pop
+2025-02-25 20:46:00,Ariana Grande,Pop/R&B
+2025-02-25 07:45:00,Taylor Swift,Pop
+2025-01-23 15:44:00,Ed Sheeran,Pop
+2025-03-12 00:11:00,Billie Eilish,Alternative/Indie
+2025-02-20 14:05:00,Ed Sheeran,Pop
+2025-02-01 12:12:00,Eminem,Hip-Hop/Rap
+2025-02-26 05:32:00,Ariana Grande,Pop/R&B
+2025-02-01 23:05:00,Taylor Swift,Pop
+2025-03-27 22:33:00,Eminem,Hip-Hop/Rap
+2025-03-18 21:49:00,Arijit Singh,Indian Pop
+2025-02-12 10:57:00,The Weeknd,R&B/Pop
+2025-03-07 10:55:00,Arijit Singh,Indian Pop
+2025-03-24 23:35:00,The Weeknd,R&B/Pop
+2025-01-15 07:54:00,The Weeknd,R&B/Pop
+2025-01-02 17:47:00,Ariana Grande,Pop/R&B
+2025-01-18 02:01:00,Ariana Grande,Pop/R&B
+2025-03-07 04:12:00,Ariana Grande,Pop/R&B
+2025-01-13 10:33:00,Arijit Singh,Indian Pop
+2025-02-05 00:41:00,Ariana Grande,Pop/R&B
+2025-01-10 22:12:00,Drake,Hip-Hop/Rap
+2025-01-15 22:00:00,Billie Eilish,Alternative/Indie
+2025-03-16 00:04:00,The Weeknd,R&B/Pop
+2025-03-19 22:36:00,Ed Sheeran,Pop
+2025-02-04 07:34:00,Taylor Swift,Pop
+2025-03-02 16:34:00,Justin Bieber,Pop
+2025-01-17 06:53:00,Billie Eilish,Alternative/Indie
+2025-02-14 19:30:00,Eminem,Hip-Hop/Rap
+2025-03-12 16:16:00,Drake,Hip-Hop/Rap
+2025-03-14 11:32:00,Taylor Swift,Pop
+2025-01-26 12:24:00,Justin Bieber,Pop
+2025-02-21 04:01:00,Justin Bieber,Pop
+2025-03-15 09:56:00,Bad Bunny,Reggaeton/Latin
+2025-01-05 11:12:00,Bad Bunny,Reggaeton/Latin
+2025-01-13 23:29:00,The Weeknd,R&B/Pop
+2025-03-23 20:28:00,Taylor Swift,Pop
+2025-03-25 19:49:00,Drake,Hip-Hop/Rap
+2025-02-06 13:02:00,Taylor Swift,Pop
+2025-03-27 13:17:00,Billie Eilish,Alternative/Indie
+2025-02-09 20:51:00,Ed Sheeran,Pop
+2025-02-19 04:52:00,The Weeknd,R&B/Pop
+2025-01-03 08:46:00,Drake,Hip-Hop/Rap
+2025-02-01 05:40:00,Justin Bieber,Pop
+2025-03-10 16:51:00,Ariana Grande,Pop/R&B
+2025-01-24 18:37:00,Arijit Singh,Indian Pop
+2025-01-29 17:48:00,Taylor Swift,Pop
+2025-01-04 11:39:00,Justin Bieber,Pop
+2025-02-07 21:43:00,Bad Bunny,Reggaeton/Latin
+2025-01-22 02:23:00,Arijit Singh,Indian Pop
+2025-01-20 22:01:00,Eminem,Hip-Hop/Rap
+2025-03-10 18:47:00,Bad Bunny,Reggaeton/Latin
+2025-01-07 14:51:00,Eminem,Hip-Hop/Rap
+2025-02-08 13:29:00,Arijit Singh,Indian Pop
+2025-02-03 17:59:00,Billie Eilish,Alternative/Indie
+2025-01-22 12:23:00,Justin Bieber,Pop
+2025-01-12 20:25:00,Taylor Swift,Pop
+2025-01-16 16:06:00,The Weeknd,R&B/Pop
+2025-01-25 13:26:00,Ed Sheeran,Pop
+2025-03-10 08:13:00,Bad Bunny,Reggaeton/Latin
+2025-03-23 10:12:00,Arijit Singh,Indian Pop
+2025-02-23 16:12:00,The Weeknd,R&B/Pop
+2025-01-02 16:27:00,Bad Bunny,Reggaeton/Latin
+2025-01-30 08:03:00,Bad Bunny,Reggaeton/Latin
+2025-01-07 14:37:00,Justin Bieber,Pop
+2025-03-28 07:47:00,Eminem,Hip-Hop/Rap
+2025-03-18 16:00:00,Justin Bieber,Pop
+2025-02-22 07:03:00,Taylor Swift,Pop
+2025-01-06 12:03:00,The Weeknd,R&B/Pop
+2025-01-14 06:08:00,Justin Bieber,Pop
+2025-01-20 07:19:00,Arijit Singh,Indian Pop
+2025-02-07 09:03:00,Billie Eilish,Alternative/Indie
+2025-02-05 07:02:00,Justin Bieber,Pop
+2025-02-13 23:34:00,Drake,Hip-Hop/Rap
+2025-03-31 03:37:00,Ed Sheeran,Pop
+2025-01-04 13:16:00,Justin Bieber,Pop
+2025-03-23 05:32:00,Ed Sheeran,Pop
+2025-02-09 04:05:00,Bad Bunny,Reggaeton/Latin
+2025-02-09 20:52:00,Justin Bieber,Pop
