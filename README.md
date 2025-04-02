@@ -13,11 +13,6 @@ Seaborn: For enchanced visual styling and readability of charts.
 
 CSV File: The dataset is stored in a CSV file named spotify_sample_data.csv, which simulates real-world Spotify listening behavior.
 
-listen_date: Timestamp of the listen
-
-artist: Name of the artist
-
-genre: Genre of the track
 Top Artists Analysis: Identifies and visualizes the 10 most played artists.
 
 Listening Activity by Hour: Shows user listening trends by hour of the day.
